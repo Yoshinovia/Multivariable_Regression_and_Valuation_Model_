@@ -58,6 +58,3 @@ To install the required dependencies on **Windows** or **macOS**, use the follow
 
 ```bash
 pip install -r requirements.txt
-
-
-
